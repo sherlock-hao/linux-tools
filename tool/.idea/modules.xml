@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tool.iml" filepath="$PROJECT_DIR$/tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.cpu/tool.cpu.iml" filepath="$PROJECT_DIR$/tool.cpu/tool.cpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.kernel/tool.kernel.iml" filepath="$PROJECT_DIR$/tool.kernel/tool.kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.memory/tool.memory.iml" filepath="$PROJECT_DIR$/tool.memory/tool.memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.network/tool.network.iml" filepath="$PROJECT_DIR$/tool.network/tool.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.ui/tool.ui.iml" filepath="$PROJECT_DIR$/tool.ui/tool.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.window/tool.window.iml" filepath="$PROJECT_DIR$/tool.window/tool.window.iml" />
+    </modules>
+  </component>
+</project>

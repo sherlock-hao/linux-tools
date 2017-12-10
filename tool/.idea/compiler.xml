@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tool.cpu" />
+        <module name="tool.kernel" />
+        <module name="tool.memory" />
+        <module name="tool.network" />
+        <module name="tool.ui" />
+        <module name="tool.window" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tool" target="1.5" />
+      <module name="tool.cpu" target="1.5" />
+      <module name="tool.kernel" target="1.5" />
+      <module name="tool.memory" target="1.5" />
+      <module name="tool.network" target="1.5" />
+      <module name="tool.ui" target="1.5" />
+      <module name="tool.window" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

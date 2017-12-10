@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.cpu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.kernel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.memory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.network" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tool.window" charset="UTF-8" />
+  </component>
+</project>
